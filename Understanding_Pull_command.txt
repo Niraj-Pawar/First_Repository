@@ -1,0 +1,2 @@
+1. This file is created to understand the basic concept of GitHub.
+   That's pull command.
